@@ -1,6 +1,5 @@
-# 🏦 Microservicio de Catálogo de Productos - Cuenta BCP
-
-Este microservicio ha sido desarrollado como parte del proceso de selección de **NTT DATA** para la cuenta del **Banco de Crédito del Perú (BCP)**. Implementa un catálogo de productos modular, escalable y de alta disponibilidad, siguiendo las mejores prácticas de ingeniería de software.
+# 🏦 Microservicio de Catálogo de Productos
+Implementa un catálogo de productos modular, escalable y de alta disponibilidad, siguiendo las mejores prácticas de ingeniería de software.
 
 ---
 
